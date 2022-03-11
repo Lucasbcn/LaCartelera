@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(https://data.whicdn.com/images/339108128/original.jpg);
+    background-size: space repeat;
+}
+
+.peliculas {
+    display: grid;
+    gap: 200px 200px;
+    margin: 200px;
+    height: 20px;
+    background-color: aquamarine;
+}
+
+#img {
+    display: flex;
+    margin: 70px;
+    padding: 70px;
+    height: 700px;
+    width: 400px;
+}

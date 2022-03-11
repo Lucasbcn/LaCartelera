@@ -1,0 +1,33 @@
+{
+  "peliculas": [
+    {
+      "id": 4,
+      "img": "https://www.google.com/search?client=ubuntu&channel=fs&sxsrf=APq-WBtkW3l72vx0zdhlTRRcmvtUvjLVmQ:1646841255325&q=300&stick=H4sIAAAAAAAAAONgFuLSz9U3iK8ysEgrUuIEsc3T4ktMtKSyk6300zJzcsFEfHFqUWZqsRWIXbyIldnYwAAAhf8OozsAAAA&sa=X&ved=2ahUKEwiL-5jgsbn2AhXCh_0HHVeHCdMQ9OUBegQIGhAD",
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción"
+     
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "img": "https://m.media-amazon.com/images/I/61DMhNjjJ3L._SL1132_.jpg",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia"
+    },
+    {},
+    {
+      "id": 2,
+      "img": "https://www.google.com/search?q=pulp+fiction&client=ubuntu&channel=fs&sxsrf=APq-WBva7E1xW2og8-J-g6ZAC5WJ4c-KXg:1646841034606&tbm=isch&source=iu&ictx=1&vet=1&fir=DgDtur4h4TW9rM%252CWvdoFdO6JOjEsM%252C_%253BFo3JSaukThI7cM%252CbsJY0nDDSKsPeM%252C_%253Bxz_asDQjycfhaM%252CDxn7E4LSy_68JM%252C_%253BdVtTsQOu6WXNIM%252CjOTAKY7PhB9HHM%252C_&usg=AI4_-kTjyvrjKlsYGuJ9jbNnnSgvzKusiA&sa=X&ved=2ahUKEwiNx_n2sLn2AhXRg_0HHWGqBs4Q_h16BAgoEAE#imgrc=dVtTsQOu6WXNIM",
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción"
+    }
+  ]
+}

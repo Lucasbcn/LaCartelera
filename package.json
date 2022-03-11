@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "postman": "^0.2.0"
+  }
+}
