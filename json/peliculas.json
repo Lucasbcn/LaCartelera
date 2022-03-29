@@ -6,35 +6,35 @@
       "name": "300",
       "img": "https://www.nacionflix.com/__export/1588522220489/sites/debate/img/2020/05/03/300_rise_of_an_empire_poster.jpg_628875394.jpg ",
       "director": "Zack Snyder",
-      "clasificacion": "Acción"
+      "clasification": "Acción"
     },
     {
       "id": 5,
       "name": "El silencio de los corderos",
       "img": "https://pics.filmaffinity.com/El_silencio_de_los_corderos-767447992-large.jpg",
       "director": "Jonathan Demme",
-      "clasificacion": "Drama"
+      "clasification": "Drama"
     },
     {
       "id": 6,
-      "name": "Forrest Gump",
+      "name": "El Padrino",
       "img": "https://a-static.mlcdn.com.br/1500x1500/quadro-decorativo-o-poderoso-chefao-filmes-cartaz-cinema-decoracoes-com-moldura-g02-vital-quadros/vitalquadrosdobrasil/080008840804/0f7fb681f625150b86f659b36493982f.jpeg",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia"
+      "director": "Francis Ford",
+      "clasification": "Crime/Drama" 
     },
     {
       "id": 2,
       "name": "Pulp Fiction",
       "img": "https://pics.filmaffinity.com/Pulp_Fiction-210382116-large.jpg",
       "director": "Tarantino",
-      "clasificacion": "Acción"
+      "clasification": "Acción"
     },
     {
-      "id": 6,
-      "name": "Forrest Gump",
-      "img": "https://a-static.mlcdn.com.br/1500x1500/quadro-decorativo-o-poderoso-chefao-filmes-cartaz-cinema-decoracoes-com-moldura-g02-vital-quadros/vitalquadrosdobrasil/080008840804/0f7fb681f625150b86f659b36493982f.jpeg",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia"
+      "id": 9,
+      "name": "Proyecto Adam",
+      "img": "https://pics.filmaffinity.com/El_proyecto_Adam-982692706-large.jpg",
+      "director": "Shawn Levy",
+      "clasification": "Aventura"
     }
   ]
 }

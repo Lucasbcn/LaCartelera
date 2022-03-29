@@ -15,13 +15,13 @@ async function fetchMoviesJSON(){
         let name = peliculas.peliculas[index].name;
         let img = peliculas.peliculas[index].img;
         let title = peliculas.peliculas[index].title;
-        let clasification = peliculas.peliculas[index].clasificacion;
+        let clasification = peliculas.peliculas[index].clasification;
         let director= peliculas.peliculas[index].director;
         
         section.innerHTML += `
-            <div class="card" style="width: 10rem;">
+            <div class="card" style="width: 10rem; opacity-50">
                 <img class="card-img-top" src="${img}" alt="Card image cap">
-                <div class="card-body">
+                <div class="card-body">         
                     <h5 class="card-title">${name}</h5>
                     <p class="card-text">${director}</p>
                     <p class="card-text">${clasification}</p>  
@@ -30,3 +30,4 @@ async function fetchMoviesJSON(){
         `    
        }
     })
+   
